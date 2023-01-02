@@ -37,7 +37,7 @@ Resources:
           sudo mv /MYStaticwebsite-Project/Morata.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/rashword.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/arrecasta.jpg /var/www/html/
-          sudo mv /MYStaticwebsite-Project/fooatball.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/football.jpg /var/www/html/
           
           
   WebAppSecurityGroup:
