@@ -29,7 +29,16 @@ Resources:
           sudo mv /MYStaticwebsite-Project/mbappe.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/messi.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/alvarez.jpg /var/www/html/
-          sudo mv /MYStaticwebsite-Project/oliver.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/giroud.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/richarlison.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/Ramos.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/saka.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/Gakpo.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/Morata.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/rashword.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/arrecasta.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/valencia.jpg /var/www/htm
+          
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
     Properties:
