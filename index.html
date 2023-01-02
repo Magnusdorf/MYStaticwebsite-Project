@@ -41,6 +41,24 @@
   </style>
 </head>
 
+<body>
+
+  <audio autoplay id="myaudio">
+
+      <source src="worldcup.mp3" loop="true" autoplay="true">
+
+      <source src="worldcup.wav" loop="true" autoplay="true">
+
+      This browser does not support HTML5 audio
+
+  </audio>
+
+  <script>
+    var audio = document.getElementById("myaudio");
+    audio.volume = 0.3;
+  </script>
+</body>
+
 <style>
   body {
     background-image: url('football.jpg');

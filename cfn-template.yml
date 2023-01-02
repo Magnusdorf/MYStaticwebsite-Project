@@ -39,6 +39,7 @@ Resources:
           sudo mv /MYStaticwebsite-Project/arrecasta.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/valencia.jpg /var/www/html/
           sudo mv /MYStaticwebsite-Project/football.jpg /var/www/html/
+          sudo mv /MYStaticwebsite-Project/worldcup.mp3 /var/www/html/
           
           
   WebAppSecurityGroup:
