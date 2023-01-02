@@ -1,2 +1,2 @@
-# MYStaticwebsite-Project-
+# MYStaticwebsite-Project
 MYStaticwebsite(Project)-Myexam
